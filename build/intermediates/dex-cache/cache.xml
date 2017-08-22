@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\vadim\.android\build-cache\5eda8a66022d5d70318687d25c67f6342d923982\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\projects\AndroidProjects\Peapp\NumberPlate\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b211cb86a26f54d964c09d14a6aeeeddd6423264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\AndroidProjects\Peapp\NumberPlate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="23541a161295a29ce6498717a83f2a69f716bff6">
+        <dex dex="D:\projects\AndroidProjects\Peapp\NumberPlate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fdec23edd40675bd2b1734242f5e1301176366c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\projects\AndroidProjects\Peapp\NumberPlate\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1c0ac751bb2ea4ac5fec952a1c367fb8cb7480de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\AndroidProjects\Peapp\NumberPlate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\projects\AndroidProjects\Peapp\NumberPlate\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_17f7573a9c63cb8df26c81617df5a9c7c1649578\classes.dex" />
+    </item>
+
+</items>
